@@ -32,7 +32,7 @@
 | **Name**         | Luís Manuel Leiteiro                          |
 | **Age**          | 18 years old                                  |
 | **Occupation**   | Student                                       |
-| **Location**     | Aveiro - Portugal                             |
+| **Location**     | Évora - Portugal                             |
 | **Goals**        | [Brief summary of their main goals]           |
 | **Pain Points**  | [Key frustrations or challenges]              |
 | **Motivation**   | [One-line motivation or quote]                |
