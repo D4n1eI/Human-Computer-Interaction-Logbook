@@ -9,34 +9,36 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Gertrudes Germânica
 ### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| Attribute        | Details                                        |
+| ---------------- | -----------------------------------------------|
+| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)   |
+| **Name**         | Gertrudes Germânica                            |
+| **Age**          | 20 years old                                   |
+| **Occupation**   | Student                                        |
+| **Location**     | Aveiro - Portugal                              |
+| **Goals**        | Balance passion with schoolwork effectively    |
+| **Pain Points**  | Mastering time management                      |
+| **Motivation**   | Wants to aprimorate her workflow               |
+                   | and broaden her knowlegdge of Applied Medicine |
+                   | and Modern Arts                                |
+| **Full Profile** | [📄 Read More](Gertrudes/Gertrudes_template.md)|
 
 ---
-## Persona: [Persona Name] 
+## Persona: Luís Leiteiro
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
 | **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
+| **Name**         | Luís Manuel Leiteiro                          |
+| **Age**          | 18 years old                                  |
+| **Occupation**   | Student                                       |
+| **Location**     | Aveiro - Portugal                             |
 | **Goals**        | [Brief summary of their main goals]           |
 | **Pain Points**  | [Key frustrations or challenges]              |
 | **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Full Profile** | [📄 Read More](Luís/Luís_template.md)         |
 
 ---
 
@@ -47,7 +49,7 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Gertrudes 
 
 [Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
 
