@@ -15,9 +15,9 @@
 | ---------------- | -----------------------------------------------|
 | **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)   |
 | **Name**         | Gertrudes Germânica                            |
-| **Age**          | 20 years old                                   |
+| **Age**          | 21 years old                                   |
 | **Occupation**   | Student                                        |
-| **Location**     | Aveiro - Portugal                              |
+| **Location**     | Coimbra - Portugal                             |
 | **Goals**        | Balance passion with schoolwork effectively    |
 | **Pain Points**  | Mastering time management                      |
 | **Motivation**   | Wants to aprimorate her workflow               |
@@ -49,18 +49,19 @@
 # Scenarios
 
 
-## Scenario 1: Gertrudes 
+## Scenario 1: Gertrudes sets up her page
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
-
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
-
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
-
+Gertrudes wants to have all her important files on the same place, she found this product being advertised online and got interested so she created and account.
+On the main page she has asked to **create a subject** so she could start working. She choose the **subject name** and personalised it to her liking. After that she started **creating folders** and **uploading files** on her subject, choosing which ones would be **visible to the AI** and selecting if they are **contents or exercises**.
+When she is happy with the subject state, she can stop editing. After that, she can access the uploaded files at any time and also upload some more. She can also **download a zip file** with all the files.
+She can then **add more subjects** as she likes with a **limit of 7**, if she wants to remove a subject that she could need in the future, she can download the zip file and upload it back when she needs it.
 ---
 
+## Scenario 2: Gertrudes want to organise her day tought the callendar feature
+
+## Scenario 3: Luís uses the AI features to help him study
+Luís logs in to the app and goes straight to the C-II tab and selects the option to **upload a file**, choosing the default directory of the app to store it and selects the option to have **it visible to the AI** and is content. He asks C-II AI to **do a summary** of the contents of that file. After he is done studying the summary and asking **questions to the AI** to understand it better, he goes back and selects the option to have the AI **make a quiz** for him. He uploads questions his professor provided him and selects it to be exercises. He **selects a quiz of 5 questions** and uses the files he wants as the info for the AI to use, then he waits a bit and uses that material to do exercises and study. After all that, he **saves that quiz** so he can review it at a later time.
+---
 
 # Requirements
 
