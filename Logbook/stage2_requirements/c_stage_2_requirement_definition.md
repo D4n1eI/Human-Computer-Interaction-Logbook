@@ -20,17 +20,15 @@
 | **Location**     | Coimbra - Portugal                             |
 | **Goals**        | Balance passion with schoolwork effectively    |
 | **Pain Points**  | Mastering time management                      |
-| **Motivation**   | Wants to aprimorate her workflow               |
-                   | and broaden her knowlegdge of Applied Medicine |
-                   | and Modern Arts                                |
-| **Full Profile** | [📄 Read More](Gertrudes/Gertrudes_template.md)|
+| **Motivation**   | Wants to aprimorate her workflow and broaden her knowlegdge of Applied Medicine and Modern Arts |
+| **Full Profile** | [📄 Read More](personas/persona1_template.md)  |
 
 ---
 ## Persona: Luís Leiteiro
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
+| **Photo**        | ![Persona Name](personas/persona2.jpeg)        |
 | **Name**         | Luís Manuel Leiteiro                          |
 | **Age**          | 18 years old                                  |
 | **Occupation**   | Student                                       |
@@ -38,7 +36,7 @@
 | **Goals**        | [Brief summary of their main goals]           |
 | **Pain Points**  | [Key frustrations or challenges]              |
 | **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](Luís/Luís_template.md)         |
+| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
 
 ---
 
