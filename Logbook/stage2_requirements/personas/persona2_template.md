@@ -2,7 +2,7 @@
 **Name:** Luís Manuel da Silva Leiteiro
 **Age:** 18
 **Occupation:** University Student
-**Location:** Aveiro, Portugal
+**Location:** Évora, Portugal
 
 ## Background
 Luís Manuel da Silva Leiteiro is a 18 year old young male adult. He is a student from Portugal in the Departement of Mathematics at the University of Aveiro who grew up in Évora. His mother is a lawyer and his father is a movie director and they spend. His parents were pretty busy during his childhood and ended up being a bit absend, leaving young Luís do organize his own life, leading to bad habits in his lifestyle. He left home to live alone in Aveiro soon after he turned 18.
