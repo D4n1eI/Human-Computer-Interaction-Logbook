@@ -8,7 +8,7 @@
 
 # Context
 [What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
-When studing something consistency is very important so its important for students to mantain healthy and efficient study methods. Given the current state of tecnology, most people have their study materials on digital form. So we decided to create an online platform where students can mannage all their studies on the same place.
+When studing something, consistency is very important so its important for students to mantain healthy and efficient study methods. Given the current state of tecnology, most people have their study materials on digital form, so we decided to create an online platform where students can mannage all their studies on the same place.
 
 # Challenges
 [What are aspects that remain a challenge? What is difficult to do? What could profit from a more customizable approach?]

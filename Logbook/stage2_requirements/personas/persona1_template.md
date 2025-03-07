@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpeg)  
+# ![Persona Name](persona1.jpeg)  
 **Name:** Gertrudes Gomes Germânica  
 **Age:** 21  
 **Occupation:** University Student  
