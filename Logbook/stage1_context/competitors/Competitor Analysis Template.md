@@ -1,22 +1,22 @@
-# Competitor Analysis: [System Name] 
+# Competitor Analysis: Quizlet
 ## General Information 
-- **Name of System:** [System Name] 
-- **Company/Developer:** [Company Name] 
-- **Website/Product Page:** [URL] 
-- **Version/Release Date:** [If applicable] 
-- **Platform(s) Supported:** [e.g., Web, Mobile (iOS/Android), Desktop] 
-- **Target Audience:** [Who is this designed for?] 
+- **Name of System:** Quizlet
+- **Company/Developer:** Quizlet Inc
+- **Website/Product Page:** (https://quizlet.com) 
+- **Version/Release Date:** January of 2007
+- **Platform(s) Supported:** Desktop, Microsoft Windows, Linux, MaxOS, Android, iOS, Web browsers 
+- **Target Audience:** Students, Professionals and Teams, Enterprises, Individuals
 
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:** Quizlet is an online learning tool with digital flashcards, quizzes, and study games to help users memorize and review information.
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:** - Flashcards - Interactive Learning Games - AI Powered Q&A
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):** - Wide Range of Study Tools and Modes 
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+**Limitations/Weaknesses:** - Limited access to features behind a paywall and restricted functionality without a subscription
 
 ---
 
@@ -24,3 +24,15 @@
 
 
 ## Online Reviews
+
+PCMAG: "Quizlet is an effective, intuitive tool for learners of all ages who need to memorize information."
+
+LIFEWIRE: "Quizlet offers audio readings and is great for teachers and students who can access a large library or create custom sets."
+
+G2: "All these modes are now behind a paywall, leaving only 'Flashcards' as free."
+
+G2: "Quizlet is now a shadow of its former self, with many features locked behind a paywall."
+
+BBB: "Quizlet makes it impossible to cancel auto-renewal for an unneeded subscription."
+
+LEARNOPOLY: "Quizlet is a great tool for memorization, but it may not be ideal for learning new concepts."
