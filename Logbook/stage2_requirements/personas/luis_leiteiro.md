@@ -1,11 +1,11 @@
-# ![Luís Leiteiro](personas/persona2.jpeg)
+# ![Luís Leiteiro](luis_leiteiro.jpeg)
 **Name:** Luís Manuel da Silva Leiteiro
 **Age:** 18
 **Occupation:** University Student
 **Location:** Évora, Portugal
 
 ## Background
-Luís Manuel da Silva Leiteiro is a 18 year old young male adult. He is a student from Portugal in the Departement of Mathematics at the University of Aveiro who grew up in Évora. His mother is a lawyer and his father is a movie director and they spend. His parents were pretty busy during his childhood and ended up being a bit absend, leaving young Luís do organize his own life, leading to bad habits in his lifestyle. He left home to live alone in Aveiro soon after he turned 18.
+Luís Manuel da Silva Leiteiro is a 18 year old young male adult. He is a student from Portugal in the Department of Mathematics at the University of Aveiro who grew up in Évora. His mother is a lawyer and his father is a movie director. His parents were pretty busy during his childhood and ended up being a bit absent, leaving young Luís do organize his own life, leading to bad habits in his lifestyle. He left home to live alone in Aveiro soon after he turned 18.
 
 ## Daily Life
 During class, he often zones out but always keeps in mind everything that he can retain when it comes to due dates and exams, which often causes him to forget some of them until one or two days before. He usually gets up late and arrives in classes a bit before the 15 minute rule takes effect, often missing some important info or not being focused enough to retain it. When he gets home, he usually studies for an hour or two and then takes the rest of the day off. When that time is not enough, he ends up overworking himself a couple days before exams and project due dates. He spends a lot of the time he is eating or cleaning his apartment stressing about things he feels like he could be forgetting, sometimes having to call friends just to make sure he really knows what exams to study and projects to do.
