@@ -1,16 +1,18 @@
 <!-- 
 This markdown document will contain all information and decisions concerning the HCI project for
 < The Title of the Project Here >
-Work carried out by:
+Work carried out by: Daniel Martins - 115868
+                     Eduardo Romano - 118736
+                     Tiago Mendes - 119773
 
 -->
 # *HCI Project Logbook*
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: Daniel Martins - 115868
+- Student 2: Eduardo Romano - 118736
+- Student 3: Tiago Mendes - 119773
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)

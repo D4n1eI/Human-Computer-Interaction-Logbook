@@ -1,4 +1,6 @@
-# ![Persona Name](gertrudes_germanica.jpeg)  
+[Back to main Logbook Page](../hci_logbook.md)
+
+# ![Gertrudes Germânica](gertrudes_germanica.jpeg)  
 **Name:** Gertrudes Gomes Germânica  
 **Age:** 21  
 **Occupation:** University Student  

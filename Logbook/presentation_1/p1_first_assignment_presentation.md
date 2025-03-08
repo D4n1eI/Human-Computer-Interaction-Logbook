@@ -4,10 +4,12 @@
 
 # Presentation Checklist
 
-- [ ] First
-- [ ] Second
-- [ ] Third
-- [ ] Fourth
+- [x] Contextualization
+- [x] Ojectives
+- [ ] Competitors
+- [ ] Personas
+- [ ] Tasks and Requirements
+- [ ] Possible Tools
 
 
 # Readings

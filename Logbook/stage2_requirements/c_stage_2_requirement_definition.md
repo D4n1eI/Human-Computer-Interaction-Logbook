@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                        |
 | ---------------- | -----------------------------------------------|
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)   |
+| **Photo**        | ![Persona Name\|100](personas/gertrudes_germanica.jpeg)   |
 | **Name**         | Gertrudes Germânica                            |
 | **Age**          | 21 years old                                   |
 | **Occupation**   | Student                                        |
@@ -21,14 +21,14 @@
 | **Goals**        | Balance passion with schoolwork effectively    |
 | **Pain Points**  | Mastering time management                      |
 | **Motivation**   | Wants to aprimorate her workflow and broaden her knowlegdge of Applied Medicine and Modern Arts |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md)  |
+| **Full Profile** | [📄 Read More](personas/gertrudes_germanica.md)  |
 
 ---
 ## Persona: Luís Leiteiro
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](personas/persona2.jpeg)       |
+| **Photo**        | ![Persona Name](personas/luis_leiteiro.jpeg)       |
 | **Name**         | Luís Manuel Leiteiro                          |
 | **Age**          | 18 years old                                  |
 | **Occupation**   | Student                                       |
@@ -36,7 +36,7 @@
 | **Goals**        | Become a more organized person                |
 | **Pain Points**  | Have an efficient way to study                |
 | **Motivation**   | Wants to become a more organized person and use the AI agent to help him study |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Full Profile** | [📄 Read More](personas/luis_leiteiro.md) |
 
 ---
 
