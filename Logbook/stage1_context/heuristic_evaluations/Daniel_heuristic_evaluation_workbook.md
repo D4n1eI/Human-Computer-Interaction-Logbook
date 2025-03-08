@@ -41,7 +41,6 @@ This heuristic was not utilized.
 | Pop-up ads with a small decline button (Quizlet)    | 4          | Improve ad experience with clearer dismissal options. |
 | Lack of customization (Notion)                      | 2          | Add more customization options.                    |
 | Reliance on premium subscription (Quizlet)         | 4          | Offer more free features.                          |
-| Very basic calendar with few functionalities (Notion) | 2        | Enhance calendar features.                        |
 
 ---
 
@@ -52,7 +51,7 @@ This heuristic was not utilized.
 
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
-| Very basic calendar with few functionalities (Notion) | 2        | Enhance features and customization.              |
+| Hard to use and understand calendar (Notion) | 2        | Enhance features and customization.              |
 
 ---
 
@@ -84,7 +83,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | AI response delay (Notion)           | 2          | Improve response time.          |
-| Very basic calendar with few functionalities (Notion) | 2 | Enhance features and customization. |
+| Hard to use and understand calendar (Notion) | 2 | Enhance features and customization. |
 | Unable to zoom on AI-generated images (Notion) | 4 | Add the option to zoom in on images. |
 
 ---
