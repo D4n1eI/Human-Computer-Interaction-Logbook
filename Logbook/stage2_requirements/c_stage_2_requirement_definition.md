@@ -28,14 +28,14 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](personas/persona2.jpeg)        |
+| **Photo**        | ![Persona Name](personas/persona2.jpeg)       |
 | **Name**         | Luís Manuel Leiteiro                          |
 | **Age**          | 18 years old                                  |
 | **Occupation**   | Student                                       |
-| **Location**     | Évora - Portugal                             |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Location**     | Évora - Portugal                              |
+| **Goals**        | Become a more organized person                |
+| **Pain Points**  | Have an efficient way to study                |
+| **Motivation**   | Wants to become a more organized person and use the AI agent to help him study |
 | **Full Profile** | [📄 Read More](personas/persona2_template.md) |
 
 ---
