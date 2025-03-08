@@ -2,140 +2,121 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: Daniel Andrade Martins
-**Date**: 22 of February of 2025
-**Product**: Notion and Quizlet
+**Evaluator**: Daniel Andrade Martins  
+**Date**: 22 of February of 2025  
+**Product**: Notion and Quizlet  
 
-Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
-Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
+Severity Scale adopted: [[severity_scale_heuristic_evaluation]]  
+Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)  
 
-# 1 Visibility of System Status
->	The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. 
->	- Does the design clearly communicate its state?
->	- Is feedback presented quickly after user actions?
+---
 
-This heuristic was not utilized...
+## 1. Visibility of System Status  
+> The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.  
+> - Does the design clearly communicate its state?  
+> - Is feedback presented quickly after user actions?  
 
-# 2 Match Between System and The Real World
->	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
->	- Will user be familiar with the terminology used in the design? 
->	- Do the design’s controls follow real-world conventions?
+This heuristic was not utilized.  
 
-This heuristic was not utilized...
+---
 
+## 2. Match Between System and The Real World  
+> The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.  
+> - Will users be familiar with the terminology used in the design?  
+> - Do the design’s controls follow real-world conventions?  
 
-# 3 User Control and Freedom
->	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
->	- Does the design allow users to go back a step in the process? 
->	- Are exit links easily discoverable? 
->	- Can users easily cancel an action? 
->	- Is Undo and Redo supported?
+This heuristic was not utilized.  
 
-| **Issue**        | **Severity** | Recommendation |
-| ---------------- | ------------ | -------------- |
-| Pop-up ads with a| 4            | Improve ad exp-|               
-| small decline    |              | erience with   |               
-| button(Quizlet)  |              | clearer dismi- |        
-|                  |              | ssal options   |     
-| ---------------- | ------------ | -------------- |
-| Lack of          | 2            | Add more custo-|               
-| customization    |              | mization opti- |             
-| (Notion)         |              | ons            |
-| ---------------- | ------------ | -------------- |
-| Reliance on pre- | 4            | Offer more     |
-| mium subscriotion|              | free features  |
-| (Quizlet)        |              |                |
-| ---------------- | ------------ | -------------- |
-| Very basic calen-| 2            | Enhance calen- |              
-| dar with few     |              | dar features   |
-| functionalities  |              |                |
-| (Notion)         |              |                |
+---
 
-# 4 Consistency and Standards
->	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
->	- Does the design follow industry conventions? 
->	- Are visual treatments used consistently throughout the design?
+## 3. User Control and Freedom  
+> Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.  
+> - Does the design allow users to go back a step in the process?  
+> - Are exit links easily discoverable?  
+> - Can users easily cancel an action?  
+> - Is Undo and Redo supported?  
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Very basic cal- | 2            | Enhance featu- |              
-| endar with few  |              | res and custo- |               
-| functionalities |              | mization       |
-| (Notion)        |              |                |
+| **Issue**                                            | **Severity** | **Recommendation**                                  |
+|------------------------------------------------------|------------|--------------------------------------------------|
+| Pop-up ads with a small decline button (Quizlet)    | 4          | Improve ad experience with clearer dismissal options. |
+| Lack of customization (Notion)                      | 2          | Add more customization options.                    |
+| Reliance on premium subscription (Quizlet)         | 4          | Offer more free features.                          |
+| Very basic calendar with few functionalities (Notion) | 2        | Enhance calendar features.                        |
 
-# 5 Error Prevention
->	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
->	- Does the design prevent slips by using helpful constraints? 
->	- Does the design warn users before they perform risky actions?
+---
 
-This heuristic was not utilized...
+## 4. Consistency and Standards  
+> Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.  
+> - Does the design follow industry conventions?  
+> - Are visual treatments used consistently throughout the design?  
 
+| **Issue**                                            | **Severity** | **Recommendation**                                  |
+|------------------------------------------------------|------------|--------------------------------------------------|
+| Very basic calendar with few functionalities (Notion) | 2        | Enhance features and customization.              |
 
-# 6 Recognition Rather than Recall
->	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
->	- Does the design keep important information visible, so that users do not have to memorize it? 
->	- Does the design offer help in-context?
+---
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Change language | 4            | Move this feat-|
-| at the bottom of|              | ure to a more  |
-| the screen(Quiz-|              | visible place  |
-| let)            |              |                |
+## 5. Error Prevention  
+> Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.  
+> - Does the design prevent slips by using helpful constraints?  
+> - Does the design warn users before they perform risky actions?  
 
-# 7 Flexibility and Efficiency of Use
->	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
->	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
->	- Is content and funtionality personalized or customized for individual users?
+This heuristic was not utilized.  
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| AI response     | 2            | Improve respon-|               
-| delay(Notion)   |              | se time        |
-|                 |              |                |
-| --------------- | ------------ |--------------- |
-| Very basic cal- | 2            | Enhance featu- |               
-| endar with few  |              | res and custo- |
-| functionalities |              | mization       |
-| (Notion)        |              |                |
-| --------------- | ------------ | -------------- |
-| Unable to zoom  | 4            | Add the option |              
-| on AI generated |              | to zoom in on  |
-| images(Notion)  |              | images         |
-|                 |              |                |
-|                 |              |                |
-# 8 Aesthetic and Minimalist Design
->	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
->	- Is the visual design and content focused on the essentials? 
->	- Have all distracting, unnescessary elements been removed?
+---
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Images on cards | 4            | Add the option |
-| are cropped     |              | to customize   |
-| (Quizlet)       |              | & resize images| 
-|                 |              |                |
-|                 |              |                |
-| --------------- | ------------ | -------------- |
-| Minimal font    | 4            | Add the option |
-| size(Notion)    |              | to resize fonts|
-|                 |              |                | 
-# 9 Help Users Recognize, Diagnose, and Recover from Errors
->	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
->	- Does the design use traditional error message visuals, like bold, red text? 
->	- Does the design offer a solution that solves the error immediately?
+## 6. Recognition Rather than Recall  
+> Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.  
+> - Does the design keep important information visible, so that users do not have to memorize it?  
+> - Does the design offer help in-context?  
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Change language | 4            | Move this fea- |       
-| at the bottom of|              | ture to a more |               
-| the screen      |              | visible place  | 
-| (Quizlet)       |              |                |              
+| **Issue**                            | **Severity** | **Recommendation**               |
+|--------------------------------------|------------|---------------------------------|
+| Change language at the bottom of the screen (Quizlet) | 4 | Move this feature to a more visible place. |
 
-# 10 Help and Documentation
->	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
->	- Is help documentation easy to search? 
->	- Is help provided in context right at the moment when the user requires it?
+---
 
-This heuristic was not utilized...
+## 7. Flexibility and Efficiency of Use  
+> Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.  
+> - Does the design provide accelerators like keyboard shortcuts and touch gestures?  
+> - Is content and functionality personalized or customized for individual users?  
 
+| **Issue**                            | **Severity** | **Recommendation**               |
+|--------------------------------------|------------|---------------------------------|
+| AI response delay (Notion)           | 2          | Improve response time.          |
+| Very basic calendar with few functionalities (Notion) | 2 | Enhance features and customization. |
+| Unable to zoom on AI-generated images (Notion) | 4 | Add the option to zoom in on images. |
+
+---
+
+## 8. Aesthetic and Minimalist Design  
+> Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.  
+> - Is the visual design and content focused on the essentials?  
+> - Have all distracting, unnecessary elements been removed?  
+
+| **Issue**                            | **Severity** | **Recommendation**               |
+|--------------------------------------|------------|---------------------------------|
+| Images on cards are cropped (Quizlet) | 4         | Add the option to customize & resize images. |
+| Minimal font size (Notion)           | 4         | Add the option to resize fonts. |
+
+---
+
+## 9. Help Users Recognize, Diagnose, and Recover from Errors  
+> Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.  
+> - Does the design use traditional error message visuals, like bold, red text?  
+> - Does the design offer a solution that solves the error immediately?  
+
+| **Issue**                            | **Severity** | **Recommendation**               |
+|--------------------------------------|------------|---------------------------------|
+| Change language at the bottom of the screen (Quizlet) | 4 | Move this feature to a more visible place. |
+
+---
+
+## 10. Help and Documentation  
+> It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.  
+> - Is help documentation easy to search?  
+> - Is help provided in context right at the moment when the user requires it?  
+
+This heuristic was not utilized.  
+
+---
