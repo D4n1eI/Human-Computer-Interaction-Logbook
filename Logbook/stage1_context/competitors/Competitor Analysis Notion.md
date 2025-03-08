@@ -27,7 +27,7 @@
 
 The Notion calendar is very heavy on the eyes and really hard to understand at a first glance!!
 
-![Screenshot of Notion](NotionScreenshots/proof1.png)
+![Screenshot of Notion](NotionScreenshots/proof3.png)
 
 
 ## Online Reviews
