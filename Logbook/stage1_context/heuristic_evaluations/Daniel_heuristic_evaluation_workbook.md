@@ -51,7 +51,7 @@ This heuristic was not utilized.
 
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
-| Hard to use and understand calendar (Notion) | 2        | Enhance features and customization.              |
+| Hard to use and understand calendar (Notion) | 2        | Add customizable reminders and color-coded labels to enhance organization and usability.              |
 
 ---
 
@@ -83,7 +83,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | AI response delay (Notion)           | 2          | Improve response time.          |
-| Hard to use and understand calendar (Notion) | 2 | Enhance features and customization. |
+| Hard to use and understand calendar (Notion) | 2 | Add customizable reminders and color-coded labels to enhance organization and usability. |
 | Unable to zoom on AI-generated images (Notion) | 4 | Add the option to zoom in on images. |
 
 ---
