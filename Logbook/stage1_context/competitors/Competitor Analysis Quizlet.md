@@ -29,9 +29,8 @@ Many of the apps useful features are locked behind a paywall!
 
 ![Screenshot of Quizlet](QuizletScreenshots/proof3.png)
 
-![Screenshot of Quizlet](QuizletScreenshots/proof4.png)
 
-Some images get cropped automatically without allowing the user to customize them!
+Some images get cropped automatically, not allowing the user to customize them!
 
 ## Online Reviews
 
