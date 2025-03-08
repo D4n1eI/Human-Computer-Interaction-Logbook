@@ -16,12 +16,22 @@
 
 **Unique Selling Points (USPs):** - Wide Range of Study Tools and Modes 
 
-**Limitations/Weaknesses:** - Limited access to features behind a paywall and restricted functionality without a subscription
+**Limitations/Weaknesses:** - Limited access to features behind a paywall and restricted functionality without a subscription. Poor support when customizing cards, some cards get cropped when uploading images
 
 ---
 
 ## Screenshots
+![Screenshot of Quizlet](QuizletScreenshots/proof1.png)
 
+![Screenshot of Quizlet](QuizletScreenshots/proof2.png)
+
+Many of the apps useful features are locked behind a paywall!
+
+![Screenshot of Quizlet](QuizletScreenshots/proof3.png)
+
+![Screenshot of Quizlet](QuizletScreenshots/proof4.png)
+
+Some images get cropped automatically without allowing the user to customize them!
 
 ## Online Reviews
 
@@ -36,3 +46,5 @@ G2: "Quizlet is now a shadow of its former self, with many features locked behin
 BBB: "Quizlet makes it impossible to cancel auto-renewal for an unneeded subscription."
 
 LEARNOPOLY: "Quizlet is a great tool for memorization, but it may not be ideal for learning new concepts."
+
+REDDIT USER: "I am working on a deck of cards, and noticed that when studying the deck it always crops the rectangular images into a square." 
