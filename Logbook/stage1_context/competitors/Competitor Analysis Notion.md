@@ -21,7 +21,14 @@
 ---
 
 ## Screenshots
-    FALTA ISTO
+![Screenshot of Notion](NotionScreenshots/proof1.png)
+
+![Screenshot of Notion](NotionScreenshots/proof2.png)
+
+The Notion calendar is very heavy on the eyes and really hard to understand at a first glance!!
+
+![Screenshot of Notion](NotionScreenshots/proof1.png)
+
 
 ## Online Reviews
 PCMag: Highlights Notion's robust feature set and collaboration capabilities but points out its complexity and lack of offline support as potential drawbacks.
