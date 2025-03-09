@@ -53,7 +53,7 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Hard to use and understand calendar (Notion) | 4        | Make calendar use feel seamless with very intuitive and consistent tasks              |
-| Change language at the bottom of the screen (Quizlet) | 3 | AQUI TIAGO |
+| Change language at the bottom of the screen (Quizlet) | 1 | Put it at upper right like the convention |
 
 ---
 
@@ -73,8 +73,8 @@ This heuristic was not utilized.
 
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
-| Change language at the bottom of the screen (Quizlet) |  |        |
-| Very confusing for newcomers (Notion) |  |  |
+| Change language at the bottom of the screen (Quizlet) | 1  | Put it on the top so users dont have to remember that it is at the bottom       |
+| Very confusing for newcomers (Notion) | 4 | Make tasks more intuitive to newcommers with simple menus |
 
 ---
 
@@ -85,9 +85,9 @@ This heuristic was not utilized.
 
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
-| AI response delay (Notion)           |           |              |
-| Hard to use and understand calendar (Notion) |  |          |
-| Unable to zoom on AI-generated images (Notion) |  |         |
+| AI response delay (Notion)           | 1          | Make a more efficient AI that delivers a lower response time             |
+| Hard to use and understand calendar (Notion) | 4 | Make calendar functionalities very intuitive and simple to use         |
+| Unable to zoom on AI-generated images (Notion) | 3 | Provide this feature        |
 
 ---
 
@@ -98,9 +98,9 @@ This heuristic was not utilized.
 
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
-| Images on cards are cropped (Quizlet) |          |                          |
-| Very small font size (Notion)           |          |                           |
-| Overwhelming amount of customisation (Notion) | 2         | AQUI TIAGO |
+| Images on cards are cropped (Quizlet) | 3         | Provide a pop-up feature that lets users see the full image so they don't miss any small details                         |
+| Very small font size (Notion)           | 1         | Make the font size bigger to help users with smaller screens or with vision handicaped                          |
+| Overwhelming amount of customisation (Notion) | 2         | Make some less usefull features harder to acess so unexperienced users wont get overwhealmed |
 
 ---
 
@@ -111,7 +111,7 @@ This heuristic was not utilized.
 
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
-| Change language at the bottom of the screen (Quizlet) |  |                    |
+| Change language at the bottom of the screen (Quizlet) | 1 | Put it at the top so users wont get traped on a language they don't understande without knowing how to change it to theirs                   |
 
 ---
 
