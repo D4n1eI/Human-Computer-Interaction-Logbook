@@ -39,7 +39,6 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Pop-up ads with a small decline button (Quizlet)    | 4          | Improve ad experience with clearer dismissal options. |
-| Lack of customization (Notion)                      | 2          | Add more customization options.                    |
 | Reliance on premium subscription (Quizlet)         | 4          | Offer more free features.                          |
 
 ---
@@ -52,6 +51,7 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Hard to use and understand calendar (Notion) | 2        | Add customizable reminders and color-coded labels to enhance organization and usability.              |
+| Change language at the bottom of the screen (Quizlet) | 4 | AQUI DANIEL |
 
 ---
 
@@ -72,6 +72,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Change language at the bottom of the screen (Quizlet) | 4 | Move this feature to a more visible place. |
+| Very confusing for newcomers (Notion) | 4 | AQUI DANIEL |
 
 ---
 
@@ -96,7 +97,8 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Images on cards are cropped (Quizlet) | 4         | Add the option to customize & resize images. |
-| Minimal font size (Notion)           | 4         | Add the option to resize fonts. |
+| Very small font size (Notion)           | 4         | Add the option to resize fonts. |
+| Overwhelming amount of customisation (Notion) | 1         | AQUI DANIEL |
 
 ---
 

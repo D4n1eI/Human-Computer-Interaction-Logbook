@@ -39,7 +39,6 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Pop-up ads with a small decline button (Quizlet)    | 2          | make pop-up ads appear less regularly and make the decline button pop out more to the user |
-| Lack of customization (Notion)                      | 1          | Make costumization options easier to obtain by the user |
 | Reliance on premium subscription (Quizlet)         | 4          | Offer more free features and upgrade the existing ones |
 
 ---
@@ -52,6 +51,7 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Hard to use and understand calendar (Notion) | 4        | Make the UI for the calendar easier to understand and add an option for help that would help the user to understand it much easier |
+| Change language at the bottom of the screen (Quizlet) | 3 | AQUI TIAGO |
 
 ---
 
@@ -72,6 +72,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Change language at the bottom of the screen (Quizlet) | 3 | Move this feature to a place where it won't be so easily missed |
+| Very confusing for newcomers (Notion) | 4 | AQUI TIAGO |
 
 ---
 
@@ -96,7 +97,9 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Images on cards are cropped (Quizlet) | 3         | Add an option to allow the user costumize and resize images on their cards |
-| Minimal font size (Notion)           | 2         | Add a feature to change font size |
+| Very small font size (Notion)           | 2         | Add a feature to change font size |
+| Overwhelming amount of customisation (Notion) | 2         | AQUI TIAGO |
+
 
 ---
 

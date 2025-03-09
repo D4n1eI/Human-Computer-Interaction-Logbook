@@ -40,9 +40,8 @@ This heuristic was not utilized.
 
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
-| Pop-up ads with a small decline button (Quizlet)    |           |           |
-| Lack of customization (Notion)                      |           |                      |
-| Reliance on premium subscription (Quizlet)         |           |                        |
+| Pop-up ads with a small decline button (Quizlet)    | 3          | Only show non-disruptive adversisements and with clear decline buttons          |
+| Reliance on premium subscription (Quizlet)         | 4          | Don't look users out of key features because they haven't payed a fee                       |
 
 ---
 
@@ -53,7 +52,8 @@ This heuristic was not utilized.
 
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
-| Hard to use and understand calendar (Notion) |         |                |
+| Hard to use and understand calendar (Notion) | 4        | Make calendar use feel seamless with very intuitive and consistent tasks              |
+| Change language at the bottom of the screen (Quizlet) | 3 | AQUI TIAGO |
 
 ---
 
@@ -74,6 +74,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Change language at the bottom of the screen (Quizlet) |  |        |
+| Very confusing for newcomers (Notion) |  |  |
 
 ---
 
@@ -98,7 +99,8 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Images on cards are cropped (Quizlet) |          |                          |
-| Minimal font size (Notion)           |          |                           |
+| Very small font size (Notion)           |          |                           |
+| Overwhelming amount of customisation (Notion) | 2         | AQUI TIAGO |
 
 ---
 
