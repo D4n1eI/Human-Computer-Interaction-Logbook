@@ -51,7 +51,7 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Hard to use and understand calendar (Notion) | 2        | Add customizable reminders and color-coded labels to enhance organization and usability.              |
-| Change language at the bottom of the screen (Quizlet) | 4 | AQUI DANIEL |
+| Change language at the bottom of the screen (Quizlet) | 4 | Move this feature to a more visible place |
 
 ---
 
@@ -72,7 +72,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Change language at the bottom of the screen (Quizlet) | 4 | Move this feature to a more visible place. |
-| Very confusing for newcomers (Notion) | 4 | AQUI DANIEL |
+| Very confusing for newcomers (Notion) | 4 |  Improve onboarding with guided tutorials|
 
 ---
 
@@ -98,7 +98,7 @@ This heuristic was not utilized.
 |--------------------------------------|------------|---------------------------------|
 | Images on cards are cropped (Quizlet) | 4         | Add the option to customize & resize images. |
 | Very small font size (Notion)           | 4         | Add the option to resize fonts. |
-| Overwhelming amount of customisation (Notion) | 1         | AQUI DANIEL |
+| Overwhelming amount of customisation (Notion) | 1         | Introduce preset themes or simplified customization |
 
 ---
 
