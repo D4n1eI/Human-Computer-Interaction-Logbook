@@ -34,11 +34,11 @@
 #### Individual Evaluations
 
 
-- [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_workbook.md)
+- [Daniel_heuristic_evaluation_workbook](heuristic_evaluations/Daniel_heuristic_evaluation_workbook.md)
 
-- [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_workbook.md)
+- [Eduardo_heuristic_evaluation_workbook](heuristic_evaluations/Eduardo_heuristic_evaluation_workbook.md)
 
-- [expert3_heuristic_evaluation_workbook](heuristic_evaluations/expert3_heuristic_evaluation_workbook.md)
+- [Tiago_heuristic_evaluation_workbook](heuristic_evaluations/Tiago_heuristic_evaluation_workbook.md)
 
 
 #### Consensus
@@ -109,7 +109,7 @@ Task: [This is the task]
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
+| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Miguel-Alexandre.md) |     |
 | ...        |                    |                                                                 |                              |     |
 
 ### Common Themes & Patterns 
