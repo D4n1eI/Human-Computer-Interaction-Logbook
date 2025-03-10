@@ -51,7 +51,7 @@ This heuristic was not utilized.
 | **Issue**                                            | **Severity** | **Recommendation**                                  |
 |------------------------------------------------------|------------|--------------------------------------------------|
 | Hard to use and understand calendar (Notion) | 4        | Make the UI for the calendar easier to understand and add an option for help that would help the user to understand it much easier |
-| Change language at the bottom of the screen (Quizlet) | 3 | AQUI TIAGO |
+| Change language at the bottom of the screen (Quizlet) | 3 | Move this feature to a place where it won't be so easily missed |
 
 ---
 
@@ -72,7 +72,7 @@ This heuristic was not utilized.
 | **Issue**                            | **Severity** | **Recommendation**               |
 |--------------------------------------|------------|---------------------------------|
 | Change language at the bottom of the screen (Quizlet) | 3 | Move this feature to a place where it won't be so easily missed |
-| Very confusing for newcomers (Notion) | 4 | AQUI TIAGO |
+| Very confusing for newcomers (Notion) | 4 | Add a "help" button that would guide new users on how to use the app and automatically show a tutorial when they first try each page |
 
 ---
 
@@ -98,7 +98,7 @@ This heuristic was not utilized.
 |--------------------------------------|------------|---------------------------------|
 | Images on cards are cropped (Quizlet) | 3         | Add an option to allow the user costumize and resize images on their cards |
 | Very small font size (Notion)           | 2         | Add a feature to change font size |
-| Overwhelming amount of customisation (Notion) | 2         | AQUI TIAGO |
+| Overwhelming amount of customisation (Notion) | 2         | Make the costumization easier to understand what is going to change and make a tab for the costumization, where everything is organized depending on the type of thing that is going to be costumized |
 
 
 ---
