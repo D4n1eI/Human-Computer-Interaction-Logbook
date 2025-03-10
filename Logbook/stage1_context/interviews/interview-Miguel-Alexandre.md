@@ -24,8 +24,9 @@
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- Sometimes uses AI platforms
+- Sometimes use AI platforms
 - Elearning and powerpoint files
+- Exercises they can find in the internet as well as their professor's exercises
 
 **Are there any frustrations or limitations with these tools?** 
 - Many times they end up downloading the same files multiple times
