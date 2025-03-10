@@ -8,7 +8,7 @@ Work carried out by: Daniel Martins - 115868
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: Project Study
 **Team:**
 - Student 1: Daniel Martins - 115868
 - Student 2: Eduardo Romano - 118736

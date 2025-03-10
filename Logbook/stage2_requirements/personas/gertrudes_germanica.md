@@ -4,7 +4,7 @@
 **Name:** Gertrudes Gomes Germânica  
 **Age:** 21  
 **Occupation:** University Student  
-**Location:** Coimbra, Portugal  
+**Location:** Oxford, England 
 
 ## Background  
 Gertrudes Germânica is a 21 year old young adult, female med student, from Portugal. She grew up in a middle-class context. Her father is a professional actor and her mother is an accountant. She has always been very organized when it comes to school, and by extension, her work. When she was a little girl, her mother fell ill. After witnessing what the doctors were capable of doing to help her mother, she was inspired and decided to pursue Medicine. However, she also had a liking for the arts, especially drawing and design.  
