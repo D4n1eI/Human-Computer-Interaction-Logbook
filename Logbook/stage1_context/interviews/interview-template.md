@@ -5,7 +5,7 @@
 ## Interview Details 
 - **Date:** [YYYY-MM-DD] 
 - **Interviewer:** [Your Name] 
-- **Participant:** [Optional: Anonymous or Role] 
+- **Participants:** Tiago and Gabriel (university students)
 - **Context:** [Where and how the interview was conducted] 
 
 --- 
