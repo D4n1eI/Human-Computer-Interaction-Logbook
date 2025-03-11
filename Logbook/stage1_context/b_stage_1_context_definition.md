@@ -32,6 +32,7 @@ Competitor chosen for this purpose: Notion
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
 
+
 #### Individual Evaluations
 
 
@@ -46,11 +47,11 @@ Competitor chosen for this purpose: Notion
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Daniel** | **Eduardo** | **Tiago** | Recommendations                             |
+| **Issue**       | **Daniel** | **Eduardo** | **Tiago** | **Recommendations**                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | num            | num        | num        | Something could be done to the button to... |
-| Another thing   | num            | num        | num        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| add stuff here | num            | num        | num        | things |
+| and here too   | num            | num        | num        | what do we write here? a mix of all of us? |
+| until there is no more stuff to add | num | num | num | or just the one we decide fits best? |
 
 
 

@@ -1,7 +1,5 @@
 # Informal User Interview Notes 
 
-> 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
-
 ## Interview Details 
 - **Date:** 27 de fevereiro
 - **Interviewers:** Eduardo Romano and Tiago Mendes
@@ -10,7 +8,7 @@
 - --- 
 ## Task Overview 
 
- **What task is the user trying to accomplish?** 
+ **What task is the user trying to accomplish?**
   Have a more efficient and organized way to study with everything they get from their professors and their own notes in a single place. 
 
 **What are the main pain points or difficulties they experience?** 
