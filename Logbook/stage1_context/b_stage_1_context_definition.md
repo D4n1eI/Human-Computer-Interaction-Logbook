@@ -14,15 +14,16 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| Notion | Online tool to organize projects and student life | [See Notion competitor analysis]("../competitors/Competitor Analysis Notion.md") |
+| Quizlet | Online study tool with flashcards, quizzes and subject summaries | [See Quizlet competitor analysis]("../competitors/Competitor Analysis Quizlet.md") |
 
 
 
 
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
+
+Competitor chosen for this purpose: Notion
 
 
 ### - Heuristic Evaluation
@@ -31,25 +32,26 @@
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
 
+
 #### Individual Evaluations
 
 
-- [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_workbook.md)
+- [Daniel_heuristic_evaluation_workbook](heuristic_evaluations/Daniel_heuristic_evaluation_workbook.md)
 
-- [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_workbook.md)
+- [Eduardo_heuristic_evaluation_workbook](heuristic_evaluations/Eduardo_heuristic_evaluation_workbook.md)
 
-- [expert3_heuristic_evaluation_workbook](heuristic_evaluations/expert3_heuristic_evaluation_workbook.md)
+- [Tiago_heuristic_evaluation_workbook](heuristic_evaluations/Tiago_heuristic_evaluation_workbook.md)
 
 
 #### Consensus
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| **Issue**       | **Daniel** | **Eduardo** | **Tiago** | **Recommendations**                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| add stuff here | num            | num        | num        | things |
+| and here too   | num            | num        | num        | what do we write here? a mix of all of us? |
+| until there is no more stuff to add | num | num | num | or just the one we decide fits best? |
 
 
 
@@ -109,7 +111,7 @@ Task: [This is the task]
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
+| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Miguel-Alexandre.md) |     |
 | ...        |                    |                                                                 |                              |     |
 
 ### Common Themes & Patterns 

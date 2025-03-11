@@ -31,7 +31,7 @@ The Notion calendar is very heavy on the eyes and really hard to understand at a
 
 
 ## Online Reviews
-PCMag: Highlights Notion's robust feature set and collaboration capabilities but points out its complexity and lack of offline support as potential drawbacks.
+PCMag Highlights Notion's robust feature set and collaboration capabilities but points out its complexity and lack of offline support as potential drawbacks.
 
 Some users have expressed concerns about Notion's speed and performance. In a Reddit discussion, one user mentioned that common complaints include "speed and security," though they personally hadn't experienced issues.
 

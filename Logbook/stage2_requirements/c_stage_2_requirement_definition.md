@@ -17,7 +17,7 @@
 | **Name**         | Gertrudes Germânica                            |
 | **Age**          | 21 years old                                   |
 | **Occupation**   | Student                                        |
-| **Location**     | Coimbra - Portugal                             |
+| **Location**     | Oxford - England                            |
 | **Goals**        | Balance passion with schoolwork effectively    |
 | **Pain Points**  | Mastering time management                      |
 | **Motivation**   | Wants to aprimorate her workflow and broaden her knowlegdge of Applied Medicine and Modern Arts |
@@ -49,10 +49,10 @@
 
 ## Scenario 1: Gertrudes sets up her page
 
-On an afternoon she decided to find a new way to organise her studies so she search for a new organasition tool and found this product being advertised online and got interested so she created and account.  
-On the main page she was asked to **create a subject** so she could start working. She choose the **subject name** and personalised it to her liking. After that she started **creating folders** and **uploading files** on her subject, choosing which ones would be **visible to the AI** and selecting if they are **contents or exercises**.  
+On an afternoon she decided to find a new way to organise her studies so she search for a new organasition tool and found this product being advertised online and got interested so she **created and account**.  
+On the main page she was asked to **create a subject** so she could start working. She chose the **subject name** and personalised it to her liking. After that she started **creating folders** and **uploading files** on her subject, choosing which ones would be **visible to the AI** and selecting if they are **contents or exercises**.  
 When she is happy with the subject state, she can stop editing. After that, she can access the uploaded files at any time and also upload some more. She can also **download a zip file** with all the files.  
-After uploading files, she **adds deadlines** and **study sessions**, specifying how often does she want to have them, on the subject, then she sees **everything displayed on her callendar**.  
+After uploading files, she **adds deadlines** and **study sessions**, specifying how often does she want to have them, on the subject, then she sees **everything displayed on her calendar**.  
 ---
 
 ## Scenario 2: Luís uses the AI features to help him study
