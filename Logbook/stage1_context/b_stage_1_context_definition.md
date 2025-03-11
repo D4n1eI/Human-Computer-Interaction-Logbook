@@ -14,15 +14,16 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| Notion | Online tool to organize projects and student life | [See Notion competitor analysis]("../competitors/Competitor Analysis Notion.md") |
+| Quizlet | Online study tool with flashcards, quizzes and subject summaries | [See Quizlet competitor analysis]("../competitors/Competitor Analysis Quizlet.md") |
 
 
 
 
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
+
+Competitor chosen for this purpose: Notion
 
 
 ### - Heuristic Evaluation
@@ -45,10 +46,10 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| **Issue**       | **Daniel** | **Eduardo** | **Tiago** | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
+| Something wrong | num            | num        | num        | Something could be done to the button to... |
+| Another thing   | num            | num        | num        | Other thing to recommend                    |
 | ...             |              |          |          |                                             |
 
 
