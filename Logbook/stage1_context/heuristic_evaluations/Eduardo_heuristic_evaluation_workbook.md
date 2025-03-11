@@ -100,7 +100,7 @@ This heuristic was not utilized.
 |--------------------------------------|------------|---------------------------------|
 | Images on cards are cropped (Quizlet) | 3         | Provide a pop-up feature that lets users see the full image so they don't miss any small details                         |
 | Very small font size (Notion)           | 1         | Make the font size bigger to help users with smaller screens or with vision handicaped                          |
-| Overwhelming amount of customisation (Notion) | 2         | Make some less usefull features harder to acess so unexperienced users wont get overwhealmed |
+| Overwhelming amount of customisation (Notion) | 2         | Make some less usefull features harder to acess so unexperienced users wont get overwhelmed |
 
 ---
 

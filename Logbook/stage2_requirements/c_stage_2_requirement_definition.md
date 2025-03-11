@@ -2,10 +2,6 @@
 
 ---
 # C. Requirement Definition
->	Based on all the gathered context, including an understanding of current practices, competitors, and user feedback and expectations: 
->	- summarize the user characteristics, context, and motivations using Personas
->	- explain your vision for a novel solution that will target user motivations using Scenarios
->	- identify requirements
 
 # Personas
 
@@ -28,7 +24,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](personas/luis_leiteiro.jpeg)       |
+| **Photo**        | ![Persona Name\|100](personas/luis_leiteiro.jpeg)       |
 | **Name**         | Luís Manuel Leiteiro                          |
 | **Age**          | 18 years old                                  |
 | **Occupation**   | Student                                       |

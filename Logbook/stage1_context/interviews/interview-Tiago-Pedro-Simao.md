@@ -1,7 +1,7 @@
 # Informal User Interview Notes 
 
 ## Interview Details 
-- **Date:** 27 de fevereiro
+- **Date:** 27 of February of 2025
 - **Interviewers:** Eduardo Romano and Daniel Martins 
 - **Participants:** Tiago, Simão and Pedro (university students)
 - **Context:** During a IHC class

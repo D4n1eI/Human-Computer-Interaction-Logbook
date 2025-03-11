@@ -5,36 +5,26 @@
 
 
 # B.1. Competitor Identification
->	The competitor analysis will entail an identification of all competitors, with brief descriptions and a collection of the look and feel of their solutions, e.g., with screenshots, etc. It will also include a detailed analysis of the competitor deemed the best or more representative.
-
-
 
 ## B.1a. Competitors
 
 
-| **Competitor**    | **Description**                             | Information repository              |
+| **Competitor**    | **Description**                             | **Information repository**          |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
 | Notion | Online tool to organize projects and student life | [See Notion competitor analysis]("../competitors/Competitor Analysis Notion.md") |
 | Quizlet | Online study tool with flashcards, quizzes and subject summaries | [See Quizlet competitor analysis]("../competitors/Competitor Analysis Quizlet.md") |
 
 
-
-
 ## B.1b. Detailed Competitor Analysis
->	Choose the most notable competitor and do a more thorough analysis of their interactive solution
 
-Competitor chosen for this purpose: Notion
-
+Competitor chosen  as the main competitor: Notion
 
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
-
-
+The heuristic avaliation process was made by three experts (Daniel, Eduardo and Tiago), following a procedure based on tring the tools for ourselves and taking notes on issues we found while using them. The heuristics follow the ones proposed by the Nielsen Norman Group and the severity scale considered is the one [present on this file](heuristic_evaluations/severity_scale_heuristic_evaluation.md). The consensus were done through individual analysis of each issue we found and then talking about a recommendation we all agree on.
 
 #### Individual Evaluations
-
 
 - [Daniel_heuristic_evaluation_workbook](heuristic_evaluations/Daniel_heuristic_evaluation_workbook.md)
 
@@ -42,28 +32,30 @@ Competitor chosen for this purpose: Notion
 
 - [Tiago_heuristic_evaluation_workbook](heuristic_evaluations/Tiago_heuristic_evaluation_workbook.md)
 
-
 #### Consensus
-
->	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
 | **Issue**       | **Daniel** | **Eduardo** | **Tiago** | **Recommendations**                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| add stuff here | num            | num        | num        | things |
-| and here too   | num            | num        | num        | what do we write here? a mix of all of us? |
-| until there is no more stuff to add | num | num | num | or just the one we decide fits best? |
-
+| Hard to use and understand calendar | AQUI | AQUI | 4 | Make the UI for the calendar easier to understand and add an option for help that would help the user to understand it much easier |
+| Very confusing for newcomers | AQUI | AQUI | 4 | Make tasks more intuitive to newcommers with simple menus |
+| AI response delay | AQUI | AQUI | 2 | Improve response time |
+| Unable to zoom on AI-generated images | AQUI | AQUI | 3 | Add the functionality to zoom in on AI-generated images |
+| Very small font size | AQUI | AQUI | 2 | Add a feature to change font size |
+| Overwhelming amount of customisation | AQUI | AQUI | 2 | Make some less usefull features harder to acess so unexperienced users wont get overwhelmed |
 
 
 ---
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+
+[Briefly described the method you used for the Cognitive Walkthrough analysis. ]
+AQUI DANIEL
 
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
+AQUI DANIEL (sim, em baixo tbm)
 
 
 | Task                        | Subtasks                               |
@@ -85,6 +77,7 @@ Competitor chosen for this purpose: Notion
 #### Results
 
 Task: [This is the task]
+AQUI DANIEL (sim, em baixo tbm)
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
@@ -98,35 +91,30 @@ Task: [This is the task]
 ---
 
 # B.2. Users
->	For the users, there are two goals: 1) understand the current status of users in the domain you are addressing. How do they manage, what are the main tasks they do, if they use some tool for the purpose, what are current challenges, what might be improved, what might be new features, ...
-
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
-## B.2b. Results
+Interviews were made to five different university students within the target audience that Project Study will take into account, with some of them being more or less organized than others, but overall around the type of people this tool would be made for. Interviews were done in groups, with the first one being done to a group of 2 and the second to a group of 3, so we could also take into account and ask ideas about group project implementation, which turned out to not be that appealing of an idea to the target audience. The questions asked were all around the types of ways they study, if they have ever tried something similar to this (and if so, ask about their experience with it), how they would like a tool like this to behave or interact with their needs and how would they like to manage it, also making a couple questions around the topic of throwing out ideas just to see if they would be interested in something else or more features being implemented, with the main answers being about how the current setting is more fitting to their needs.
 
->	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
+## B.2b. Results
 
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Miguel-Alexandre.md) |     |
-| ...        |                    |                                                                 |                              |     |
-
+| 27-02-2025 | Miguel and Alexandre / university students      | Would love a tool like this but feel like they would need it to be easy to navigate and efficient so it won't consume much of their time | [📄 Notes](interviews/interview-Miguel-Alexandre.md) | Time efficiency was the thing they deemed most important really important topic in their arguments |
+| 27-02-2025 | Tiago, Pedro and Simão / university students | Would love a tool like this but feel like they would need it to be easy to navigate and accurate with the info they are getting | [📄 Notes](interviews/interview-Tiago-Pedro-Simao.md) | These students were set on being sure they were getting answers and other info from the AI angent tailored to their needs |
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Too many tabs opened
+	- Ending up downloading the same files multiple times
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- AI tools
+	- Making a pdf file with what they need
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Time efficiency
+	- Easy to use and understand interfaces
 - --- 
-
 
 
 ---
