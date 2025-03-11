@@ -58,10 +58,10 @@ After he is done studying the summary and asking **questions to the AI** to unde
 
 # Requirements
 
--The application should allow users to create an account and login using their credentials like email and password;  
+-The system should allow users to create an account and login using their credentials like email and password;  
 -The system should not be required to be installed on every machine;  
--The application should be intuitive;  
--The application should be able to handle multiple users without performance issues, thus being available at all times;  
+-The system should be intuitive;  
+-The system should be able to handle multiple users without performance issues, thus being available at all times;  
 -The user should be able to create a new subject and create new folders and upload files on it;  
 -The subject should be able to be customised;  
 -The user should be able to select if a file is “content” or “exercises” and if the AI agent should have access to it;  
@@ -74,14 +74,14 @@ After he is done studying the summary and asking **questions to the AI** to unde
 -The user should be able to access the deadline/study session directly from the calendar;  
 -The AI agent should be able to summarise the contents of a subject to the user;  
 -The AI agent should be able to respond questions of the user with accuracy to the subject contents;  
--The AI agent should be able to create quizes for a user;  
--The quiz should have an interactive interface to promote a more engaging learning;  
+-The AI agent should be able to create quizzes for a user;  
+-The quiz should have an interactive interface to promote a more engaging learning experience;  
 -The user should be able to choose the number of questions and content of a quiz;  
 -The user should be able to save the quiz and answer it later;  
 -The AI agent should have a low response time.  
 
 ## C.1. Functional requirements
--The application should allow users to create an account and login using their credentials like email and password;  
+-The system should allow users to create an account and login using their credentials like email and password;  
 -The system should not be required to be installed on every machine;  
 -The user should be able to create a new subject and create new folders and upload files on it;  
 -The subject should be able to be customised;  
@@ -95,14 +95,14 @@ After he is done studying the summary and asking **questions to the AI** to unde
 -The user should be able to access the deadline/study session directly from the calendar;  
 -The AI agent should be able to summarise the contents of a subject to the user;  
 -The AI agent should be able to respond questions of the user with accuracy to the subject contents;  
--The AI agent should be able to create quizes for a user;  
+-The AI agent should be able to create quizzes for a user;  
 -The user should be able to choose the number of questions and content of a quiz;   
 -The user should be able to save the quiz and answer it later;  
 
 ## C.2. Non-functional requirements
--The application should be intuitive;  
--The application should be able to handle multiple users without performance issues, thus being available at all times;  
--The quiz should have an interactive interface to promote a more engaging learning;  
+-The system should be intuitive;  
+-The system should be able to handle multiple users without performance issues, thus being available at all times;  
+-The quiz should have an interactive interface to promote a more engaging learning experience;  
 -The AI agent should have a low response time;  
 
 ---
