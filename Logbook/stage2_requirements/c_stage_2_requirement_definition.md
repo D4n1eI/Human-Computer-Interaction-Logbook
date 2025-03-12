@@ -24,7 +24,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/luis_leiteiro.jpeg)       |
+| **Photo**        | ![Persona Name\|100](personas/luis_leiteiro.jpg)       |
 | **Name**         | Luís Manuel Leiteiro                          |
 | **Age**          | 18 years old                                  |
 | **Occupation**   | Student                                       |

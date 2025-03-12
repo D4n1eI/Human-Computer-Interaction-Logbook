@@ -1,6 +1,6 @@
 [Back to main Logbook Page](../hci_logbook.md)
 
-# ![Luís Leiteiro](luis_leiteiro.jpeg)
+# ![Luís Leiteiro](luis_leiteiro.jpg)
 **Name:** Luís Manuel da Silva Leiteiro
 **Age:** 18
 **Occupation:** University Student
