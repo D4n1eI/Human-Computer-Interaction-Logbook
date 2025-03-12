@@ -36,12 +36,12 @@ The heuristic avaliation process was made by three experts (Daniel, Eduardo and 
 
 | **Issue**       | **Daniel** | **Eduardo** | **Tiago** | **Recommendations**                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Hard to use and understand calendar | AQUI | AQUI | 4 | Make the UI for the calendar easier to understand and add an option for help that would help the user to understand it much easier |
-| Very confusing for newcomers | AQUI | AQUI | 4 | Make tasks more intuitive to newcommers with simple menus |
-| AI response delay | AQUI | AQUI | 2 | Improve response time |
-| Unable to zoom on AI-generated images | AQUI | AQUI | 3 | Add the functionality to zoom in on AI-generated images |
-| Very small font size | AQUI | AQUI | 2 | Add a feature to change font size |
-| Overwhelming amount of customisation | AQUI | AQUI | 2 | Make some less usefull features harder to acess so unexperienced users wont get overwhelmed |
+| Hard to use and understand calendar | 2 | 4 | 4 | Make the UI for the calendar easier to understand and add an option for help that would help the user to understand it much easier |
+| Very confusing for newcomers | 4 | 4 | 4 | Make tasks more intuitive to newcommers with simple menus |
+| AI response delay | 2 | 1 | 2 | Improve response time |
+| Unable to zoom on AI-generated images | 4 | 3 | 3 | Add the functionality to zoom in on AI-generated images |
+| Very small font size | 4 | 1 | 2 | Add a feature to change font size |
+| Overwhelming amount of customisation | 1 | 2 | 2 | Make some less usefull features harder to acess so unexperienced users wont get overwhelmed |
 
 
 ---
@@ -50,41 +50,34 @@ The heuristic avaliation process was made by three experts (Daniel, Eduardo and 
 #### Method
 
 [Briefly described the method you used for the Cognitive Walkthrough analysis. ]
-AQUI DANIEL
+We created an account on the website, and tested the various features available and selected the ones that are most relevant.
 
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
-AQUI DANIEL (sim, em baixo tbm)
+We've selected 'Get summary from AI' since it's one of the application's most sought out features. We've divided into four difference subtasks:Log in/Sign up; Press the 'Notion AI' button; select 'Summarize' and select article to summarize.
 
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Get summary from AI ** | Log in/ Sign up	                       |
+|                             | Press the 'Notion AI' button           |
+|                             | Select 'Summarize'                     |
+|                             | Select article to summarize            |
 
-
-| Task                          | Subtasks                                |
-| ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
 
 
 #### Results
 
 Task: [This is the task]
-AQUI DANIEL (sim, em baixo tbm)
+Adding a study session
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | [Log in / Sign up]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [ ]              |     |
+| 2      | [Press the 'Notion AI' button]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Have button pop-out when pressing]              |     |
+| 3      | [Select 'summarize']   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Make the menu horizontal, so users don't have to scroll up and down until they find the feature they want to select ]              |     |
+| 4...    | [Select article to summarize]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Add option to select article, without having to go back to the main menu]               |     |
 
 
 
