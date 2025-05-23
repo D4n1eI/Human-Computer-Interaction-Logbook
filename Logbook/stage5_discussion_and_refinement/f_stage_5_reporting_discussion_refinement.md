@@ -10,11 +10,40 @@
 
 # Refinement List
 
-### - 
+### - New Upload icon and description on hover
 
+        The testers mentioned that the button for the upload files funtion wasn't very easy to understand so we decided to change the icon from the sometimes used "upload icon" (an upside down download icon) to a Plus sign (+) and got some positive feedback on the idea.
+        We also got some feedback on the need of a description showing up when the user hovers a button related to file management, so we implemented an on-hover condition that triggers after aproximately 0.5 seconds of hovering time and shows a description of what that button does.
+
+### - Modal for not implemented features
+
+        Since we did a transition from a fully implemented low-fidelity prototype to a high-fidelity prototype that only implements the most important and necessary functions for the tasks given to the testers, we implemented a modal that appears when a button that would lead to a feature that isn't impelented yet so the testers would get lost in the UI and question why some buttons aren't working.
+        This feature is present on every single button that isn't working yet, with the possibility of taking up this project again at a later time being on the table.
 
 # Refined Prototype
 
+## The Following screenshots show the changes mentioned previously
+
+### - New Upload icon and description on hover
+![Refinement here](Screenshots/Plus_Hover.png)
+
+### - Modal for not implemented features
+
+![Refinement here](Screenshots/Modal.png)
+
+# Developer comments
+
+## Tiago
+
+        I believe that with these changes, the issues that potential users could have would more likely be related to personal preference or simply enviromental factors (for example, not paying attention at the first time they launch the app and skipping the "tutorials", not being used to using a computer, etc).
+
+## Eduardo
+
+        (here)
+
+## Daniel
+
+        (here)
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
