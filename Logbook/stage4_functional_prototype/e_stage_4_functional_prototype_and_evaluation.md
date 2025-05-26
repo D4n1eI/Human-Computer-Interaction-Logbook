@@ -83,10 +83,14 @@
 ![Observations](Post_Task_Questionnaire/Observations.png)
 
 #### SUS
-        There overall SUS score brings very promising results and we believe that by fixing some minor issues that were reported we will have a very stable and well built app.
+        The overall SUS score brings very promising results and we believe that by fixing some minor issues that were reported we will have a very stable and well built app.
+        After doing some calculations on the gathered data we got the total SUS Score of 70, which further proves the good usability of our system.
+
 ![SUS1](Post_Task_Questionnaire/SUS1.png)
 ![SUS2](Post_Task_Questionnaire/SUS2.png)
 ![SUS3](Post_Task_Questionnaire/SUS3.png)
+
+        
 
 #### User Comments
         This feedback was taken into account in the next version of the prototype.
