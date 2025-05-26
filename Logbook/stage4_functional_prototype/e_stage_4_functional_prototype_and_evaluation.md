@@ -104,7 +104,7 @@
 
 ## Eduardo
 
-        (here)
+        I think the app we created definitely has a lot of potential, especially if we were to fine-tune some areas and develop the backend. Users seemed to enjoy our app, saying they would love to use it for studying if it had all the promised features. We noticed users had trouble with some features, and we will try to improve them in the next stage.
 
 ## Daniel
 

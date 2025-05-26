@@ -39,7 +39,7 @@
 
 ## Eduardo
 
-        (here)
+        We tackled most of the issues our users reported, with the exception of improving the association made between the STUDY button and the AI and quizzes. Although this could be an issue when the user starts using the app, if we introduced the user to Studify with a small tutorial, guided by Pixel, users would understand the button’s functionalities.
 
 ## Daniel
 
