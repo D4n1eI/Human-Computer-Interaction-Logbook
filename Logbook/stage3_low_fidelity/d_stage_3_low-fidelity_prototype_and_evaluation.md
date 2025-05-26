@@ -28,7 +28,7 @@ Some tasks are divided into smaller **subtasks** to avoid overwhelming participa
 
 #### **Task 1: Study with AI**
 
-1. In **Calculus III**, make the file `test1.txt` visible to the AI.  
+1. In **Calculus III**, make the folder `Class1` visible to the AI.  
 2. Ask a question about that subject.  
 
 > *This tests the user's workflow when studying with AI assistance.*
@@ -48,7 +48,7 @@ Some tasks are divided into smaller **subtasks** to avoid overwhelming participa
 
 #### **Task 3: Take a Quiz**
 
-1. Complete **"Quiz 1"** for **Calculus III**.  
+1. Complete **"Quiz 1"** on **Calculus III**.  
 
 > *This tests how the user interacts with the quiz functionality in the app.*
 
