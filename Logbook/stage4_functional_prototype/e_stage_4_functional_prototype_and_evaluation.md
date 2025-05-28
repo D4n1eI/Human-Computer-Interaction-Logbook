@@ -108,7 +108,7 @@
 
 ## Daniel
 
-        (here)
+        Given proper time and resources, the app could be further refined and worked on. The feedback we got during the project's presentation to the class proved to be very valuable, as it pinpointed various nitpicks that the users had with our application, allowings us to alter and change certain features and quirks regarding the website.
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
