@@ -43,7 +43,8 @@
 
 ## Daniel
 
-        (here)
+        I think the feedback we received proved valuable for improving the clarity and usability of our prototype. Small refinements such as hoverable descriptions made a noticeable difference in the user's interaction with the website. If we were to resume the project in the future, we would have a solid foundation to build on, and we came to the conclusion that the current version of the prototype is much more user-friendly as a result of the adjustments we made.
+
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
