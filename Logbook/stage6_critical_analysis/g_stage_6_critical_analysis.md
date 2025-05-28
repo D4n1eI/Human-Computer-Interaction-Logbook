@@ -24,9 +24,9 @@ We rate our overall work as **19 out of 20**. The final product largely met our 
 
 ## Rate Effort
 We rate every member’s contribution as following:
-**Daniel**: %
-**Eduardo**: %
-**Tiago**: %
+**Daniel**: 30%
+**Eduardo**: 37%
+**Tiago**: 33%
 
 
 ---
